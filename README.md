@@ -4,3 +4,5 @@
 2. 学会git的基本命令
 
 ![幂幂](./static/timg.jpeg)
+
+真的不好
